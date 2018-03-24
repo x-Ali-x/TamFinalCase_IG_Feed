@@ -7,3 +7,5 @@ Dit is een toevoeging aan mijn case. Het doel was om jullie foto's weer te geven
 Voor educational purposes heb ik zelf een instagram account aangemaakt en daar foto's op gezet. Door middel van de instagram api heb ik deze foto's kunnen opvragen. 
 
 U kunt via index.html het resultaat zien. 
+
+Link to the original case: https://github.com/x-Ali-x/TamFinalCase
