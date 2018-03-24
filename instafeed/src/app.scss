@@ -1,0 +1,20 @@
+html, body {
+  background: #eaeaea;
+}
+#instafeed {
+  margin: 0 0.5em;
+}
+#instafeed a {
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  width: calc(100% / 5);
+  transition: all .3s;
+  height: 180px;
+  background-size: cover;
+}
+
+#instafeed a:hover{
+opacity: .6;
+}
