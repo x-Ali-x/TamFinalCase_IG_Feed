@@ -8,4 +8,6 @@ Voor educational purposes heb ik zelf een instagram account aangemaakt en daar f
 
 U kunt via index.html het resultaat zien. 
 
+Link to my instagram: https://www.instagram.com/tx.ali24/
+
 Link to the original case: https://github.com/x-Ali-x/TamFinalCase
